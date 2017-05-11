@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7117cd1c-f069-4ec2-9c43-9929c2e68d76" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayslipGenerator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PayslipGenerator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPayslip.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testPayslip.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parser_stream.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/parser/parser_stream.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="356" column="19" lean-forward="false" selection-start-line="356" selection-start-column="19" selection-end-line="356" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formatter_stream.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/formatter/formatter_stream.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPayslipGenerator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testPayslipGenerator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaxTable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaxTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="97" lean-forward="false" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testTaxTable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testTaxTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testInput.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testInput.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>o</find>
+      <find>option</find>
+      <find>options</find>
+      <find>getOptions</find>
+      <find>fromPath</find>
+      <find>t</find>
+      <find>tran</find>
+      <find>trans</find>
+      <find>transf</find>
+      <find>transfor</find>
+      <find>transform(</find>
+      <find>transform</find>
+      <find>transform</find>
+      <find>transform =</find>
+      <find>transform =</find>
+      <find>console.log</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\len\payslip\node_modules\mocha\lib</dir>
+      <dir>C:\Users\len\payslip\node_modules\mocha</dir>
+      <dir>C:\Users\len\payslip\node_modules\fast-csv\lib</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/payslipInput.js" />
+        <option value="$PROJECT_DIR$/tester/testPayslipInput.js" />
+        <option value="$PROJECT_DIR$/something.js" />
+        <option value="$PROJECT_DIR$/out.csv" />
+        <option value="$PROJECT_DIR$/PayslipInput.js" />
+        <option value="$PROJECT_DIR$/test/testPayslipInput.js" />
+        <option value="$PROJECT_DIR$/payslip.js" />
+        <option value="$PROJECT_DIR$/test/testPayslip.js" />
+        <option value="$PROJECT_DIR$/test/testTaxTable.js" />
+        <option value="$PROJECT_DIR$/Payslip.js" />
+        <option value="$PROJECT_DIR$/TaxTable.js" />
+        <option value="$PROJECT_DIR$/test/testInput.csv" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/test/testPayslipGenerator.js" />
+        <option value="$PROJECT_DIR$/PayslipGenerator.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payslip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payslip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payslip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payslip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\len\payslip\node_modules\mocha" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.test\testTaxTable.js">
+    <configuration default="false" name="test\testPayslip.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/testPayslip.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="PayslipGenerator" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/testPayslipGenerator.js</test-file>
+      <test-names>
+        <name value="PayslipGenerator" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="PayslipGenerator.#transformEmployeeDataArray().should correctly transform valid employee input data array to payslip output data" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/testPayslipGenerator.js</test-file>
+      <test-names>
+        <name value="PayslipGenerator" />
+        <name value="#transformEmployeeDataArray()" />
+        <name value="should correctly transform valid employee input data array to payslip output data" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="PayslipGenerator.#convertCsvLineToPayslipObject().should process an input file and produce payslip data" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/testPayslipGenerator.js</test-file>
+      <test-names>
+        <name value="PayslipGenerator" />
+        <name value="#convertCsvLineToPayslipObject()" />
+        <name value="should process an input file and produce payslip data" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="test\testTaxTable.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/testTaxTable.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="payslip" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.test\testPayslip.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.PayslipGenerator" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.PayslipGenerator.#transformEmployeeDataArray().should correctly transform valid employee input data array to payslip output data" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.PayslipGenerator.#convertCsvLineToPayslipObject().should process an input file and produce payslip data" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.test\testTaxTable.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.test\testTaxTable.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.test\testPayslip.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.PayslipGenerator" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.PayslipGenerator.#convertCsvLineToPayslipObject().should process an input file and produce payslip data" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.PayslipGenerator.#transformEmployeeDataArray().should correctly transform valid employee input data array to payslip output data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7117cd1c-f069-4ec2-9c43-9929c2e68d76" name="Default" comment="" />
+      <created>1494389780955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494389780955</updated>
+      <workItem from="1494389782240" duration="352000" />
+      <workItem from="1494390149373" duration="14772000" />
+      <workItem from="1494450448205" duration="20522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 40m 09s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 42m 21s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 42m 48s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 42m 59s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 43m 38s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 43m 54s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 44m 24s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="PayslipGenerator - 2017.05.11 at 14h 50m 12s.xml">
+      <configuration name="PayslipGenerator" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_testPayslip_js - 2017.05.11 at 14h 50m 18s.xml">
+      <configuration name="test\testPayslip.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_testTaxTable_js - 2017.05.11 at 14h 50m 21s.xml">
+      <configuration name="test\testTaxTable.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18006264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PayslipGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PayslipInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payslip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaxTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testTaxTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9792">
+          <caret line="576" column="0" lean-forward="false" selection-start-line="576" selection-start-column="0" selection-end-line="576" selection-end-column="0" />
+          <folding>
+            <marker date="1493105326000" expanded="true" signature="0:28" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="38:59" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="89:125" ph="/** @param {*} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="149:209" ph="/** @param {*} s ...*/" />
+            <marker date="1493105326000" expanded="true" signature="243:279" ph="/** @param {*} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="309:351" ph="/** @param {Number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="376:418" ph="/** @param {Number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="446:496" ph="/** @param {string} encodedURI ...*/" />
+            <marker date="1493105326000" expanded="true" signature="534:593" ph="/** @param {string} encodedURIComponent ...*/" />
+            <marker date="1493105326000" expanded="true" signature="649:692" ph="/** @param {string} uri ...*/" />
+            <marker date="1493105326000" expanded="true" signature="723:775" ph="/** @param {string} uriComponent ...*/" />
+            <marker date="1493105326000" expanded="true" signature="825:878" ph="/** @typedef {string|number|Symbol} PropertyKey ...*/" />
+            <marker date="1493105326000" expanded="true" signature="880:903" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="938:959" ph="/** @type {Object} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="992:1030" ph="/** @param {*} [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1057:1134" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1199:1257" ph="/** @param {PropertyKey} propertyName ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1319:1361" ph="/** @param {Object} o ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1411:1469" ph="/** @param {PropertyKey} propertyName ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1537:1560" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1604:1622" ph="/** @return {*} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1666:1687" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1716:1768" ph="/** @param {...*} [args] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1793:1851" ph="/** @param {...T|Array.&lt;T&gt;} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1897:1948" ph="/** @param {string} [separator] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1996:2014" ph="/** @return {T} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2052:2097" ph="/** @param {...T} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2141:2167" ph="/** @return {Array.&lt;T&gt;} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2209:2227" ph="/** @return {T} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2267:2339" ph="/** @param {Number} [start] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2388:2444" ph="/** @param {function} [compareFn] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2492:2594" ph="/** @param {Number} [start] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2658:2703" ph="/** @param {...T} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2750:2772" ph="/** @return {Array} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2815:2867" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2895:2919" ph="/** @return {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2964:3168" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3245:3303" ph="/** @param {string} dateString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3342:3380" ph="/** @param {...*} args ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3404:3427" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3468:3491" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3531:3554" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3596:3619" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3664:3687" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3729:3752" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3801:3824" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3868:3891" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3935:3958" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3999:4022" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4073:4096" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4140:4163" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4206:4229" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4277:4300" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4345:4368" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4420:4443" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4490:4513" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4558:4581" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4628:4651" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4692:4719" ph="/** @param {number} date ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4764:4837" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4896:4988" ph="/** @param {number} hour ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5045:5070" ph="/** @param {number} ms ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5121:5190" ph="/** @param {number} min ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5244:5294" ph="/** @param {number} month ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5345:5392" ph="/** @param {number} sec ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5442:5469" ph="/** @param {number} time ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5514:5541" ph="/** @param {number} date ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5589:5662" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5724:5816" ph="/** @param {number} hour ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5876:5901" ph="/** @param {number} ms ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5955:6024" ph="/** @param {number} min ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6081:6131" ph="/** @param {number} month ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6185:6232" ph="/** @param {number} sec ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6285:6313" ph="/** @param {number} value ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6359:6382" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6428:6451" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6496:6573" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6640:6717" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6780:6857" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6924:6947" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6993:7016" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7062:7085" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7118:7160" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7245:7276" ph="/** @type {Arguments} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7311:7339" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7370:7398" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7430:7500" ph="/** @param {Object} [thisArg] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7559:7624" ph="/** @param {Object} [thisArg] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7694:7730" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7743:7779" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7795:7831" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7846:7882" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7900:7936" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7953:7989" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8003:8039" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8058:8094" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8111:8160" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8188:8237" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8266:8315" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8344:8393" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8422:8489" ph="/** @param {number} y ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8521:8570" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8599:8648" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8676:8725" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8753:8802" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8832:8881" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8909:8961" ph="/** @param {...number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8989:9041" ph="/** @param {...number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9069:9136" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9166:9197" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9227:9276" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9306:9355" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9383:9432" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9461:9510" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9538:9552" ph="/** @global ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9569:9605" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9628:9664" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9687:9723" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9740:9776" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9807:9843" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9874:9925" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9952:10010" ph="/** @param {Number} [fractionalDigits] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10075:10133" ph="/** @param {Number} [fractionalDigits] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10192:10243" ph="/** @param {Number} [precision] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10299:10346" ph="/** @param {Number} [radix] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10395:10418" ph="/** @return {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10462:10498" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10526:10562" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10584:10620" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10646:10682" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10708:10744" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10773:10809" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10828:10864" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10883:10919" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10938:10974" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10993:11029" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11048:11077" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11107:11136" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11170:11191" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11224:11246" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11279:11300" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11333:11411" ph="/** @param {String|RegExp} [pattern] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11448:11524" ph="/** @param {string} [String] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11570:11619" ph="/** @param {string} [String] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11666:11724" ph="/** @param {...Number} [chars] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11767:11788" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11818:11869" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11896:11951" ph="/** @param {string} [nameAttribute] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12006:12029" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12068:12091" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12132:12155" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12195:12238" ph="/** @param {Number} pos ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12283:12306" ph="/** @return {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12357:12409" ph="/** @param {...string} [strings] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12458:12481" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12522:12567" ph="/** @param {string} color ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12617:12661" ph="/** @param {Number} size ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12709:12788" ph="/** @param {string} searchString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12852:12875" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12918:12997" ph="/** @param {string} searchString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13065:13109" ph="/** @param {string} href ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13153:13251" ph="/** @param {string} that ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13320:13394" ph="/** @param {RegExp} regexp ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13441:13537" ph="/** @param {RegExp|string} searchValue ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13604:13645" ph="/** @param {*} regexp ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13693:13760" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13810:13833" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13874:13941" ph="/** @param {*} separator ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13997:14020" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14062:14085" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14124:14194" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14248:14315" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14369:14392" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14431:14454" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14501:14524" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14577:14600" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14653:14676" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14723:14746" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14790:14811" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14841:14862" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14895:14947" ph="/** @param {*} [msg] ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testInput.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testPayslip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PayslipInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tester/testPayslipInput.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9792">
+          <caret line="576" column="0" lean-forward="false" selection-start-line="576" selection-start-column="0" selection-end-line="576" selection-end-column="0" />
+          <folding>
+            <marker date="1493105326000" expanded="true" signature="0:28" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="38:59" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="89:125" ph="/** @param {*} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="149:209" ph="/** @param {*} s ...*/" />
+            <marker date="1493105326000" expanded="true" signature="243:279" ph="/** @param {*} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="309:351" ph="/** @param {Number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="376:418" ph="/** @param {Number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="446:496" ph="/** @param {string} encodedURI ...*/" />
+            <marker date="1493105326000" expanded="true" signature="534:593" ph="/** @param {string} encodedURIComponent ...*/" />
+            <marker date="1493105326000" expanded="true" signature="649:692" ph="/** @param {string} uri ...*/" />
+            <marker date="1493105326000" expanded="true" signature="723:775" ph="/** @param {string} uriComponent ...*/" />
+            <marker date="1493105326000" expanded="true" signature="825:878" ph="/** @typedef {string|number|Symbol} PropertyKey ...*/" />
+            <marker date="1493105326000" expanded="true" signature="880:903" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="938:959" ph="/** @type {Object} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="992:1030" ph="/** @param {*} [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1057:1134" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1199:1257" ph="/** @param {PropertyKey} propertyName ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1319:1361" ph="/** @param {Object} o ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1411:1469" ph="/** @param {PropertyKey} propertyName ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1537:1560" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1604:1622" ph="/** @return {*} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1666:1687" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1716:1768" ph="/** @param {...*} [args] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1793:1851" ph="/** @param {...T|Array.&lt;T&gt;} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1897:1948" ph="/** @param {string} [separator] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="1996:2014" ph="/** @return {T} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2052:2097" ph="/** @param {...T} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2141:2167" ph="/** @return {Array.&lt;T&gt;} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2209:2227" ph="/** @return {T} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2267:2339" ph="/** @param {Number} [start] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2388:2444" ph="/** @param {function} [compareFn] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2492:2594" ph="/** @param {Number} [start] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2658:2703" ph="/** @param {...T} [items] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2750:2772" ph="/** @return {Array} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2815:2867" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2895:2919" ph="/** @return {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="2964:3168" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3245:3303" ph="/** @param {string} dateString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3342:3380" ph="/** @param {...*} args ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3404:3427" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3468:3491" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3531:3554" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3596:3619" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3664:3687" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3729:3752" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3801:3824" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3868:3891" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3935:3958" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="3999:4022" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4073:4096" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4140:4163" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4206:4229" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4277:4300" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4345:4368" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4420:4443" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4490:4513" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4558:4581" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4628:4651" ph="/** @return {number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4692:4719" ph="/** @param {number} date ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4764:4837" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="4896:4988" ph="/** @param {number} hour ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5045:5070" ph="/** @param {number} ms ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5121:5190" ph="/** @param {number} min ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5244:5294" ph="/** @param {number} month ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5345:5392" ph="/** @param {number} sec ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5442:5469" ph="/** @param {number} time ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5514:5541" ph="/** @param {number} date ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5589:5662" ph="/** @param {number} year ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5724:5816" ph="/** @param {number} hour ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5876:5901" ph="/** @param {number} ms ...*/" />
+            <marker date="1493105326000" expanded="true" signature="5955:6024" ph="/** @param {number} min ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6081:6131" ph="/** @param {number} month ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6185:6232" ph="/** @param {number} sec ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6285:6313" ph="/** @param {number} value ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6359:6382" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6428:6451" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6496:6573" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6640:6717" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6780:6857" ph="/** @param {(string|string[])} [locales] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6924:6947" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="6993:7016" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7062:7085" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7118:7160" ph="/** @type {function} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7245:7276" ph="/** @type {Arguments} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7311:7339" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7370:7398" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7430:7500" ph="/** @param {Object} [thisArg] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7559:7624" ph="/** @param {Object} [thisArg] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7694:7730" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7743:7779" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7795:7831" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7846:7882" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7900:7936" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="7953:7989" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8003:8039" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8058:8094" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8111:8160" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8188:8237" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8266:8315" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8344:8393" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8422:8489" ph="/** @param {number} y ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8521:8570" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8599:8648" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8676:8725" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8753:8802" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8832:8881" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8909:8961" ph="/** @param {...number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="8989:9041" ph="/** @param {...number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9069:9136" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9166:9197" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9227:9276" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9306:9355" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9383:9432" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9461:9510" ph="/** @param {number} x ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9538:9552" ph="/** @global ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9569:9605" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9628:9664" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9687:9723" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9740:9776" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9807:9843" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9874:9925" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="9952:10010" ph="/** @param {Number} [fractionalDigits] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10075:10133" ph="/** @param {Number} [fractionalDigits] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10192:10243" ph="/** @param {Number} [precision] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10299:10346" ph="/** @param {Number} [radix] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10395:10418" ph="/** @return {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10462:10498" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10526:10562" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10584:10620" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10646:10682" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10708:10744" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10773:10809" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10828:10864" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10883:10919" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10938:10974" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="10993:11029" ph="/** @static ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11048:11077" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11107:11136" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11170:11191" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11224:11246" ph="/** @type {boolean} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11279:11300" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11333:11411" ph="/** @param {String|RegExp} [pattern] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11448:11524" ph="/** @param {string} [String] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11570:11619" ph="/** @param {string} [String] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11666:11724" ph="/** @param {...Number} [chars] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11767:11788" ph="/** @type {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11818:11869" ph="/** @param [value] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="11896:11951" ph="/** @param {string} [nameAttribute] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12006:12029" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12068:12091" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12132:12155" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12195:12238" ph="/** @param {Number} pos ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12283:12306" ph="/** @return {Number} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12357:12409" ph="/** @param {...string} [strings] ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12458:12481" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12522:12567" ph="/** @param {string} color ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12617:12661" ph="/** @param {Number} size ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12709:12788" ph="/** @param {string} searchString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12852:12875" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="12918:12997" ph="/** @param {string} searchString ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13065:13109" ph="/** @param {string} href ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13153:13251" ph="/** @param {string} that ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13320:13394" ph="/** @param {RegExp} regexp ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13441:13537" ph="/** @param {RegExp|string} searchValue ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13604:13645" ph="/** @param {*} regexp ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13693:13760" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13810:13833" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13874:13941" ph="/** @param {*} separator ...*/" />
+            <marker date="1493105326000" expanded="true" signature="13997:14020" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14062:14085" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14124:14194" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14248:14315" ph="/** @param {Number} start ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14369:14392" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14431:14454" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14501:14524" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14577:14600" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14653:14676" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14723:14746" ph="/** @return {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14790:14811" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14841:14862" ph="/** @type {string} ...*/" />
+            <marker date="1493105326000" expanded="true" signature="14895:14947" ph="/** @param {*} [msg] ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PayslipInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/mocha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/escape-string-regexp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/hook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/bin/options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/bin/mocha">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payslip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/formatter/formatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="63" column="18" lean-forward="false" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/formatter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/extended.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/parser/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/parser/parser_stream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="356" column="19" lean-forward="false" selection-start-line="356" selection-start-column="19" selection-end-line="356" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fast-csv/lib/formatter/formatter_stream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testTaxTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaxTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="97" lean-forward="false" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testPayslip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testOutput.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testPayslipGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testInput.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PayslipGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>payslip</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
